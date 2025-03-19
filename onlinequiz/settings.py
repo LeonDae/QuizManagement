@@ -28,7 +28,7 @@ SECRET_KEY = '@k0#p3kidu)yaaa3u1hplxz)f@^6xiy384*(+n@@s5x#1bx@m5'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    "https://quizmanagement.onrender.com",  # Your Render URL
+    "quizmanagement.onrender.com",  # Your Render URL
     "127.0.0.1",  # For local testing
     "localhost",  # For local testing
     ]
